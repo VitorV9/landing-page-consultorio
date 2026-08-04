@@ -25,6 +25,10 @@
     height: 750px; 
 }
 
+.col-md-4 img{
+    height: 250px;
+}
+
 .section-title span{
     color: #087900;
 }

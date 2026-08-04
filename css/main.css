@@ -20,3 +20,19 @@
 .navbar-toggler{
     background-color: #fff;
 }
+
+.carousel-inner img {
+    height: 750px; 
+}
+
+.section-title span{
+    color: #087900;
+}
+
+#sobre-o-consultorio {
+    background-color: #e0f7dc;
+}
+
+.text-colored{
+    color: #087900;
+}

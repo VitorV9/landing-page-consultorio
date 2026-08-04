@@ -1,0 +1,22 @@
+.navbar{
+    background-color: #087900;
+}
+
+#cabecalho .nav .nav-link.active{
+    background-color: #fff;
+    color: #087900;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
+    color: #fff;
+}
+
+.navbar-brand{
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-toggler{
+    background-color: #fff;
+}

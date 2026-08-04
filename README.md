@@ -9,6 +9,7 @@ Este é um projeto de uma landing page responsiva para uma clínica médica ("Co
 
 ## 🔗 Link do Projeto
 O site está hospedado na Vercel e pode ser acessado no link abaixo:
+https://landing-page-consultorio.vercel.app
 
 ## 🛠️ Como executar o projeto localmente
 1. Clone o repositório: `git clone https://github.com/VitorV9/landing-page-consultorio.git

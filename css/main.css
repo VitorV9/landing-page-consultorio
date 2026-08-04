@@ -29,14 +29,29 @@
     height: 250px;
 }
 
+.col-md-6 img {
+    height: 200px;
+}
+
 .section-title span{
     color: #087900;
 }
 
-#sobre-o-consultorio {
+#sobre-o-consultorio,
+#especializacoes {
     background-color: #e0f7dc;
 }
 
 .text-colored{
+    color: #087900;
+}
+
+.nav-especializacoes .nav-link.active,
+#fale-conosco button{
+    background-color: #087900;
+    color: #fff;
+}
+
+.nav-especializacoes .nav-link:hover{
     color: #087900;
 }
